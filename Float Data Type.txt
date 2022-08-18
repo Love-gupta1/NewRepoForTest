@@ -1,0 +1,8 @@
+public class Main
+{
+   public static void main(String[] args)
+   {
+     float value= 10.44f;
+     System.out.println(value);
+   }
+}
